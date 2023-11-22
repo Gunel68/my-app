@@ -1,0 +1,17 @@
+div{
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
+
+button{
+background-color: brown;
+width: 104%;
+}
+input{
+    width: 100%;
+    background-color: aqua;
+}
+label{
+    font-size: 180%;
+}
